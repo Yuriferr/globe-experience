@@ -1,0 +1,53 @@
+.App{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+
+  .containerCards{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 500px;
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    z-index: 3;
+    transition: all 1s ease;
+
+    .carrousel{
+      overflow: hidden;
+  
+      .inner{
+        display: flex;
+        gap: 20px;
+        padding-left: 20px;
+        margin-left: -220px;
+  
+        .card{
+          min-width: 200px;
+          min-height: 250px;
+          border-radius: 20px;
+          background: center;
+          transition: all 1s ease;
+          opacity: 1;
+        }
+      }
+    }
+
+    .buttons{
+      margin-left: 20px;
+      display: flex;
+      gap: 20px;
+      button{
+        width: 50px;
+        height: 50px;
+        border-radius: 100%;
+        border: none;
+        cursor: pointer;
+      }
+    }
+  }
+}

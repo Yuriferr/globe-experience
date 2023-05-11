@@ -1,0 +1,34 @@
+{
+  "travel_experiences": [
+    {
+      "place_name": "Tokyo",
+      "trip_title": "Exploring the bustling city of Tokyo",
+      "location": "Japan",
+      "image": "https://media.cntraveler.com/photos/60341fbad7bd3b27823c9db2/16:9/w_2560%2Cc_limit/Tokyo-2021-GettyImages-1208124099.jpg"
+    },
+    {
+      "place_name": "Machu Picchu",
+      "trip_title": "Hiking to the ancient ruins of Machu Picchu",
+      "location": "Peru",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Machu_Picchu%2C_Peru.jpg/1200px-Machu_Picchu%2C_Peru.jpg"
+    },
+    {
+      "place_name": "Santorini",
+      "trip_title": "Relaxing on the stunning beaches of Santorini",
+      "location": "Greece",
+      "image": "https://www.melhoresdestinos.com.br/wp-content/uploads/2021/04/santorini-grecia-capa-820x430.jpg"
+    },
+    {
+      "place_name": "Sydney",
+      "trip_title": "Discovering the iconic landmarks of Sydney",
+      "location": "Australia",
+      "image": "https://www.seabourn.com/content/dam/sbn65/inventory-assets/ports/p/syd/SYD1.jpg"
+    },
+    {
+      "place_name": "Cape Town",
+      "trip_title": "Experiencing the vibrant culture of Cape Town",
+      "location": "South Africa",
+      "image": "https://africadosulbrasil.com.br/wp-content/uploads/sites/10/2022/02/cape-town-3.jpg"
+    }
+  ]
+}
